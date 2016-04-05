@@ -1,0 +1,2 @@
+apache-libcloud==0.20.1
+backports.ssl-match-hostname==3.5.0.1
